@@ -1,0 +1,10 @@
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\bin\Debug\parcialmatrices 1 2022.exe.config
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\bin\Debug\parcialmatrices 1 2022.exe
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\bin\Debug\parcialmatrices 1 2022.pdb
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\bin\Debug\parcialmatrices 1 2022.xml
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\obj\Debug\parcialmatrices_1_2022.Form1.resources
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\obj\Debug\parcialmatrices_1_2022.Resources.resources
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\obj\Debug\parcialmatrices 1 2022.vbproj.GenerateResource.Cache
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\obj\Debug\parcialmatrices 1 2022.exe
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\obj\Debug\parcialmatrices 1 2022.xml
+C:\Users\daniy\Desktop\parcialmatrices 1 2022\parcialmatrices 1 2022\obj\Debug\parcialmatrices 1 2022.pdb
